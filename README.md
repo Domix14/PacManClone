@@ -12,6 +12,8 @@ cmake -B ./build
 cmake --build ./build
 ```
 
+To run the game you need to copy SFML .dll files and /resources folder to game exetuble location.
+
 ![Example](Animation.gif)
 
 
