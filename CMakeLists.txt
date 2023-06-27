@@ -4,7 +4,7 @@ include(FetchContent)
 
 project(PacManClone)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 11)
 
 set(SFML_VERSION "2.5.1")
 
