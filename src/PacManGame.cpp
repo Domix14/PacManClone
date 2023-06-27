@@ -237,4 +237,9 @@ void PacManGame::loadScore()
 		file >> m_bestScore;
 		file.close();
 	}
+	else 
+	{
+		m_bestScore = 0;
+	}
+
 }
